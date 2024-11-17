@@ -23,20 +23,6 @@ I am a **front-end developer** with **2 years of experience**, specializing in *
 
 ---
 
-## **🛠 Tech Stack**  
-- **Languages & Frameworks:**  
-  JavaScript, TypeScript, Vue js, Node.js, Three.js , Next.js  
-- **Styling:**  
-  TailwindCSS, Styled Components, MUI, DaisyUI  
-- **Tools & Platforms:**  
-  Vite, NPM, Expo, Postgres, MongoDB, Redis, Docker, Kubernetes  
-- **Design & Collaboration:**  
-  Figma, Jira  
-- **Code Quality:**  
-  ESLint  
-
----
-
 ## **🏆 Achievements & Projects**  
 1. **Corporate Management Panel**  
    - Includes **data tables**, **varied menus**, and **dual-language support**  
@@ -49,47 +35,6 @@ I am a **front-end developer** with **2 years of experience**, specializing in *
 3. **Mini Projects:**  
    - **Family Tree**: Designed a tree structure using HTML and CSS  
    - **Responsive News Slider**  
-
----
-
-## **📊 Skill Statistics**  
-```mermaid
-pie
-    title My Skills
-    "Vue.js": 30
-    "HTML/CSS": 30
-    "JavaScript": 25
-    "Tailwind CSS": 10
-    "WordPress": 5
-```
-
----
-
-## **🌐 Language Usage Statistics**  
-```mermaid
-pie
-    title Most Used Languages
-    "HTML": 40 #FF5722
-    "CSS": 30 #00BFA5
-    "JavaScript": 20 #FFEB3B
-    "Other": 10 #9E9E9E
-```
-
----
-
-## **📈 Progression Over Time**  
-```mermaid
-line
-    title Development Skills Progression
-    xAxis: Time
-    series Vue.js,HTML,CSS,JavaScript
-    data:
-      Vue.js: [0, 10, 20, 30, 40]
-      HTML: [20, 30, 40, 50, 60]
-      CSS: [15, 25, 35, 45, 55]
-      JavaScript: [10, 20, 30, 40, 50]
-```
-
 ---
 
 ## **🌍 Contact Me**  
@@ -105,6 +50,3 @@ line
 - Contributing to open-source projects to support the developer community  
 
 ---
-
-### **License**  
-This repository is licensed under the MIT License. For more details, refer to the `LICENSE` file.  
