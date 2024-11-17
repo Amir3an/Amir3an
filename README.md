@@ -50,3 +50,6 @@ I am a **front-end developer** with **2 years of experience**, specializing in *
 - Contributing to open-source projects to support the developer community  
 
 ---
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Amir3an&label=Profile%20Views&icon=2&pretty=true" />
+</a>
