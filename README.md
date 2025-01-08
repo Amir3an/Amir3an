@@ -36,6 +36,7 @@ As a **front-end developer**, I specialize in the following:
 ## 💻 Tech Stack:
 ![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=flat&logo=vue.js&logoColor=white) 
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%233E74B1.svg?style=flat&logo=bootstrap&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) 
 ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
@@ -52,6 +53,7 @@ As a **front-end developer**, I specialize in the following:
 ![REST API](https://img.shields.io/badge/rest_api-%23276DC3.svg?style=flat&logo=rest-api&logoColor=white) 
 ![Axios](https://img.shields.io/badge/axios-%231C7BFF.svg?style=flat&logo=axios&logoColor=white) 
 ![Fetch API](https://img.shields.io/badge/fetch_api-%2316A34A.svg?style=flat&logo=fetch&logoColor=white)
+
 
 ---
 
