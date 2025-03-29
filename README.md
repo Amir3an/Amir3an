@@ -7,8 +7,8 @@ Currently, I’m working on various **corporate websites** and **management pane
 ---
 
 ## 👨‍💻 About Me
-- 🔥 **17 years old** and studying in **technical high school**  
-- 🎯 Goal: To deepen and professionalize my web development skills  
+- 🔥 **17 years old**
+- 🎯 Goal: To deepen and professionalize my web development skills
 - 🌎 Based in **Iran**  
 - ☕ Fueling my code with a daily shot of espresso!  
 - 📝 Proficient in **English reading and writing**  
@@ -58,17 +58,14 @@ As a **front-end developer**, I specialize in the following:
 ---
 
 ## 🏆 Achievements & Projects  
-1. **Corporate Management Panel**  
-   - Includes **data tables**, **varied menus**, and **dual-language support**  
-   - Professionally structured and user-friendly  
+1. **Roydad Iran**  
+   - A minimalist news website inspired by TED  
+   - Built with **Vue.js** and **HTML/CSS**  
+   - [View Project](https://irirooydad.ir)
 
 2. **Corporate Website**  
-   - Integrated with **API** for dynamic data display  
-   - Features a **dynamic news slider**  
-
-3. **Mini Projects:**  
-   - **Family Tree**: Designed a tree structure using HTML and CSS  
-   - **Responsive News Slider**  
+   - Design and development of a minimalist corporate website with **Tailwind CSS** and **Vue.js**  
+   - [View Project](https://sstech.ir)
 
 ---
 
@@ -87,8 +84,3 @@ As a **front-end developer**, I specialize in the following:
 [![](https://visitcount.itsvg.in/api?id=Amir3an&icon=5&color=10)](https://visitcount.itsvg.in)
 
 ---
-
-## 📈 Future Goals  
-- Mastering **JavaScript Core**  
-- Enhancing scalability in web design  
-- Contributing to open-source projects to support the developer community
