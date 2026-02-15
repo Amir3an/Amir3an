@@ -1,6 +1,6 @@
 # 💻 Hey There, I'm AmirAli
 
-I am a **front-end developer** with **2 years of experience** in crafting user-friendly and efficient web applications. Specializing in **Vue.js**, **Tailwind CSS**, and **JavaScript**, I enjoy building sleek, responsive websites and am passionate about enhancing user experience through innovative design.
+I am a **front-end developer** with **3 years of experience** in crafting user-friendly and efficient web applications. Specializing in **Vue.js**, **Tailwind CSS**, and **JavaScript**, I enjoy building sleek, responsive websites and am passionate about enhancing user experience through innovative design.
 
 Currently, I’m working on various **corporate websites** and **management panels**, using the latest technologies to create seamless digital experiences. 🌟 I believe in the power of clean code, and I am always striving to improve my skills.
 
@@ -16,9 +16,7 @@ Currently, I’m working on various **corporate websites** and **management pane
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amirali_sayadian)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amirali_sayadian)
-[![Telegram](https://img.shields.io/badge/Telegram-%2300A3E0.svg?logo=telegram&logoColor=white)](https://t.me/AmirAli_Sayadian)
 ---
 
 # 💡 Key Skills:
