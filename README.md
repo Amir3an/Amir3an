@@ -7,7 +7,6 @@ Currently, I’m working on various **corporate websites** and **management pane
 ---
 
 ## 👨‍💻 About Me
-- 🔥 **17 years old**
 - 🎯 Goal: To deepen and professionalize my web development skills
 - 🌎 Based in **Iran**  
 - ☕ Fueling my code with a daily shot of espresso!  
