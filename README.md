@@ -1,4 +1,4 @@
-# 💻 Hey There, I'm AmirAli
+# 💻 Hey There, I'm Amir
 
 I am a **front-end developer** with **3 years of experience** in crafting user-friendly and efficient web applications. Specializing in **Vue.js**, **Tailwind CSS**, and **JavaScript**, I enjoy building sleek, responsive websites and am passionate about enhancing user experience through innovative design.
 
